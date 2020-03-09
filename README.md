@@ -1,3 +1,24 @@
+# Projet React 
+
+
+# Hébergement
+https://barsintoulouse.netlify.com/
+
+### TODO
+*mise a jour de l'API
+* changer le titre
+* modifier les states likes
+* corrections diverses
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
