@@ -3,8 +3,7 @@ import React from "react";
 const addLike = props => {
 	return (
 		<span>
-			<a
-				href="#"
+			<a href="#"
 				onClick={() => {
 					props.setLikes(props.likes + 1);
 				}}
